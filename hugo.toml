@@ -1,4 +1,3 @@
 baseURL = 'https://github.io'
-theme = 'hugo-theme-stack-4.0.3'
 locale = 'en-us'
 title = 'Greenfield Survivalcraft'
